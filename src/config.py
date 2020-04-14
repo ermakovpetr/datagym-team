@@ -6,3 +6,5 @@ JSONS_DIR = "../tmp/jsons/"
 
 # determed from check quieries
 BASE_SPLIT_POINT = "2019-03-02 10:05:00"
+
+CONFIG = 1234
