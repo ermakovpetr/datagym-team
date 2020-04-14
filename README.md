@@ -45,6 +45,10 @@ cp ./data/raw/products.csv submit/solutions/assets
 cp ./tmp/implicit_cosine1/model.pkl submit/solutions/assets
 ```
 
+ТЕСТ
+ТЕСТ
+ТЕСТ
+
 5. Упаковать сабмит
 ```bash
 cd submit
