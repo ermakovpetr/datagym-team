@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import torch
 from scipy import sparse as sp
-import XGBoost
+import XGBoost, catboost
 import config as cfg
 
 
