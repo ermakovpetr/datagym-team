@@ -2,6 +2,7 @@ import sys
 import json
 import requests
 
+print ("helloworld!")
 
 def average_precision(actual, recommended, k=30):
     ap_sum = 0
