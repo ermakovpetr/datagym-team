@@ -1,4 +1,5 @@
 # all path are from ./src folder
+#comment
 PURCHASE_CSV_PATH = "../data/raw/purchases.csv"
 CLIENT_CSV_PATH = "../data/raw/clients.csv"
 PRODUCT_CSV_PATH = "../data/raw/products.csv"
