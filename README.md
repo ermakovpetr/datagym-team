@@ -1,5 +1,7 @@
 #  Бэйслайн к задаче [RetailHero.ai/#2](https://retailhero.ai/c/recommender_system/overview) от [@geffy](https://github.com/geffy)
 
+
+* ПОМЕНЯЛА ФАЙЛ kjkj
 Репозиторий содержит:
 * item-to-item модель (NMAP 0.1137, top5 на 09/01/2020)
 * распиливание исходных данных на шарды
