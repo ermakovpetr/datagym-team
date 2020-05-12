@@ -9,7 +9,7 @@ from tqdm import tqdm
 import config as cfg
 
 
-def transaction_to_target(transaction: Dict[str, Any]) -> Dict[str, Any]:
+def transaction_to_target_2(transaction: Dict[str, Any]) -> Dict[str, Any]:
     return {
         "tid": transaction["tid"],
         "datetime": transaction["datetime"],
