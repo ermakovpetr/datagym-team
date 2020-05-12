@@ -5,6 +5,6 @@ PRODUCT_CSV_PATH = "../data/raw/products.csv"
 JSONS_DIR = "../tmp/jsons/"
 
 # determed from check quieries
-BASE_SPLIT_POINT = "2019-03-02 10:05:00"
+BASE_SPLIT_POINT = "2019-04-02 10:05:00"
 
 CONFIG = 1234
